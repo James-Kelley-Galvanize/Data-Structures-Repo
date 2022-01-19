@@ -4,7 +4,7 @@
   "description": "",
   "main": "BinarySearchTree.js",
   "scripts": {
-    "test": "node node_modules/mocha/bin/mocha spec/BinarySearchTree.test.js"
+    "test": "node node_modules/mocha/bin/mocha spec/Graph.test.js"
   },
   "keywords": [],
   "author": "",
